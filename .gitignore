@@ -1,4 +1,4 @@
-*
-!1-birthday-reminder/reminder/*
-!2-tours/setup/*
+/*
+!/1-birthday-reminder/reminder/*
+!/2-tours/setup/*
 !*gitignore
